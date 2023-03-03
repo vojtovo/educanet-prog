@@ -37,7 +37,7 @@ public class Character {
     }
 
     public void setJmeno(String jmeno) {
-        this.jmeno = jmeno;
+        this.jmeno = "sir " + jmeno;
     }
 
     public double getZdravi() {

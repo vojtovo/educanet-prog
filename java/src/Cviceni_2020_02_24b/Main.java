@@ -22,7 +22,7 @@ public class Main {
             1000.0,
             20.0,
             50.0,
-            30.0,
+            5.0,
             "Pepa"
         );
         Character ch2 = new Character(
